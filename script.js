@@ -50,5 +50,3 @@ function menssage(item, result) {
         alert (`${item.name} você obteve média ${ average(item.firstNote, item.secondNote)} e infelizmente não atingiu a nota mínima desejada para aprovação. Seja persistente e acredite em você!`)
     }
 } 
-
-
